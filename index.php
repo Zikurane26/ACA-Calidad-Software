@@ -33,5 +33,15 @@
   }
   ?>
 </div>
+ <!-- Video explicativo -->
+  <div class="ratio ratio-16x9 mt-5">
+    <h2 class="mb-4">Video: Importancia y Beneficios de la Calidad de Software</h2>
+    <div class="ratio ratio-16x9">
+      <iframe 
+          src="https://drive.google.com/file/d/1LyxmpJtfGUBtGxKaGvXaggquMKPKyDGN/preview" 
+          width="640" height="480" allow="autoplay">
+      </iframe>
+    </div>
+  </div>
 
 <?php include 'includes/footer.php'; ?>
